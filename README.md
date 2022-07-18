@@ -31,5 +31,4 @@ $ python3 Beta.py
  python3 Beta.py
 ```
 
-![25July2022]()
-![25July2022]()
+![SS](https://github.com/Mr-Beta-Version/ScreenShots/blob/main/IMG_20220719_034918.jpg)
