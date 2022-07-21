@@ -32,3 +32,5 @@ $ python3 Beta.py
 ```
 
 ![SS](https://github.com/Mr-Beta-Version/ScreenShots/blob/main/IMG_20220719_034918.jpg)
+![1.1](https://github.com/Mr-Beta-Version/ScreenShots/blob/main/IMG-20220721-WA0042.jpg)
+![1.1](https://github.com/Mr-Beta-Version/ScreenShots/blob/main/IMG-20220721-WA0041.jpg)
